@@ -11,3 +11,6 @@ __pycache__/
 
 # IDE
 .vscode/
+
+# ML
+catboost_info/
